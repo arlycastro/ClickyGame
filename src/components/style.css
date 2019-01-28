@@ -1,0 +1,44 @@
+.characterImage{
+    width: 170px !important;
+    height: 170px !important;
+}
+
+.characterContainer {
+    background-color:white;
+    margin: 5px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 0px!important;
+    width: 100% !important;
+    padding: 0px !important;
+}
+
+.navbar{
+    color : white;
+    font-size: 3vw;
+}
+
+.navRow{
+    width: 100% !important;
+}
+
+.myCard {
+    width: 18rem
+}
+
+.wrapper {
+    padding-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    max-height: 780px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow-y: scroll;
+  }
+
+
